@@ -6,7 +6,13 @@ namespace ConsoleGitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+
+            int i = 42, j = 99;
+
+            int sum = i + j;
+
+            Console.WriteLine("Hello World!");
+
         }
     }
 }
