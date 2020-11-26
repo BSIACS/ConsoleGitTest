@@ -6,6 +6,8 @@ namespace ConsoleGitTest
     {
         static void Main(string[] args)
         {
+            int i = 42, j = 99;
+
             Console.WriteLine("Hello World!");
         }
     }
